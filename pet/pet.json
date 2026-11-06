@@ -1,0 +1,7 @@
+{
+  "id": "clippy",
+  "displayName": "Clippy",
+  "description": "A playful silver paperclip companion inspired by the classic Microsoft Office assistant.",
+  "spriteVersionNumber": 2,
+  "spritesheetPath": "spritesheet.png"
+}

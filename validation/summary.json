@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "tested_codex_build": "26.1103.31037 / 25241",
+  "platform_tested": "macOS",
+  "installer_tests": {
+    "passed": 8,
+    "failed": 0
+  },
+  "isolated_documented_cli": "pass",
+  "actual_installed_loader_discovery": "pass",
+  "actual_native_selection_persistence": "pass",
+  "native_code_test_adapters": [
+    "filesystem transport",
+    "manifest schema fields",
+    "logging/debounce defaults"
+  ],
+  "live_desktop_picker": "not verified: clean desktop launch requires account sign-in",
+  "required_standard_frames": 57,
+  "gaze_directions": 16,
+  "all_required_cells_present": true,
+  "unused_cells_transparent": 15,
+  "independent_visual_review": "pass with faint wire-highlight warning",
+  "gaze_semantics": "all sixteen intended quadrants/cardinals pass",
+  "preview_quality_improvement": "lossless full-color animated WebP/APNG; native192px optional size avoids fractional source-to-CSS downsampling",
+  "rendering_limitation": "Host CSS image-rendering:pixelated remains; display-scale-dependent aliasing is not universally eliminated",
+  "character_rights": "unresolved third-party rights; non-commercial fan notice and takedown contact; no Microsoft permission asserted",
+  "private_data_scan": "pass",
+  "public_download_verification": "reported in release notes after publication"
+}
