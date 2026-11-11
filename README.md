@@ -1,12 +1,10 @@
-# Clippy for Codex
+<p align="center"><strong>Clippy for Codex</strong></p>
 
 A classic silver paperclip companion with expressive eyes, animated task states, and sixteen gaze directions.
 
-## Download
-
 Version **1.0.0** · transparent v2 pet package · Python 3 installer
 
-[Download Clippy v1.0.0 — ZIP](https://github.com/Kian-hdr/clippy-codex-pet/releases/download/v1.0.0/Clippy_Codex_Pet_v1.0.0.zip) · [Checksums](https://github.com/Kian-hdr/clippy-codex-pet/releases/download/v1.0.0/SHA256SUMS.txt)
+<p align="center"><a href="https://github.com/Kian-hdr/clippy-codex-pet/releases/download/v1.0.0/Clippy_Codex_Pet_v1.0.0.zip">Download Clippy v1.0.0 — ZIP</a> · <a href="https://github.com/Kian-hdr/clippy-codex-pet/releases/download/v1.0.0/SHA256SUMS.txt">Checksums</a></p>
 
 The package contains the complete pet assets, metadata, installer, documentation, and animated previews. The sprite format is platform-independent; runtime results must be checked in the user's Codex build. Python 3 is required for the installer.
 
